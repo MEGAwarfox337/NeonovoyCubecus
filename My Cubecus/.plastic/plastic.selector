@@ -1,0 +1,4 @@
+repository "My Cubecus@MEGA_warfox337@cloud"
+  path "/"
+    br "/main"
+    co "/main"
